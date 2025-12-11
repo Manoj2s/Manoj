@@ -63,9 +63,9 @@
 
 [![An image of @thejaggeddevil's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thejaggeddevil)](https://holopin.io/@thejaggeddevil)
 
-
 <div align="center">
 <table align="center">
+    <!-- Languages -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=c,js,python"/></td>
@@ -78,6 +78,7 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=firebase,nodejs,express"/></td>
     </tr>
+<!-- Backend -->
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql"/></td>
@@ -87,10 +88,11 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
-    </tr> 
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Mobile:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,flutter"/></td>
+    </tr>
 </table>
+</div>
 
 # 📊 GitHub Stats
 
@@ -119,6 +121,11 @@
 
 
 ---
+
+
+
+
+
 
 <p align="left">
 
